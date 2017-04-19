@@ -1,4 +1,7 @@
-# test coverage for  [easysoap (v1.0.6)](https://github.com/moszeed/easysoap#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-easysoap.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-easysoap) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-easysoap.svg)](https://travis-ci.org/npmtest/node-npmtest-easysoap)
+# npmtest-easysoap
+
+#### basic test coverage for  [easysoap (v1.0.6)](https://github.com/moszeed/easysoap#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-easysoap.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-easysoap) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-easysoap.svg)](https://travis-ci.org/npmtest/node-npmtest-easysoap)
+
 #### a easy to use Soap Client for Node.js
 
 [![NPM](https://nodei.co/npm/easysoap.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/easysoap)
